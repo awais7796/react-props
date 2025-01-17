@@ -10,6 +10,7 @@ function App() {
    <>
    <h1 className='bg-black-400 mb-5'>Tailwind Test</h1>
 <Card btnText="click here "/>
+<Card btnText="click here "/>
 <Card btnText="click here " text="luwbfhnnocooueciuebab whiobceoioaubowi  woihvieafhif viuh iuew afifhriu veu herf rih "/>
 </>)
 }
